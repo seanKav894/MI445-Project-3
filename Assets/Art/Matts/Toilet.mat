@@ -98,15 +98,15 @@ Material:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
-    - _Circle_Density: 75.78
+    - _Circle_Density: 76.11
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Falloff_Threshold: 0.23
+    - _Falloff_Threshold: 0.43
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Lit_Threshold: 0.52
+    - _Lit_Threshold: 0.36
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
