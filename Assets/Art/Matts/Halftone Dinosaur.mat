@@ -98,7 +98,7 @@ Material:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
-    - _Circle_Density: 69.38
+    - _Circle_Density: 74.49
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -106,14 +106,14 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Lit_Threshold: 1.75
+    - _Lit_Threshold: 1.64
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _Rotation: -0.79
+    - _Rotation: -3.42
     - _Shading_Multiplier: 0.1
     - _SmoothnessTextureChannel: 0
     - _Softness: 0.2
